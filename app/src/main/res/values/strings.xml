@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Covid-Cert-Scanner</string>
+    <string name="server_url_including_the_token">server url including the ?token=</string>
+</resources>
