@@ -12,7 +12,7 @@ to set this up you will need to have a Node JS server running on your phone (for
  pkg update && pkg upgrade
 ```
 ```
-pkg install node && pkg install git
+pkg install nodejs && pkg install git
 ```
 
 3. install the verifcation server from github [kety-folf/NZCP-express-server](https://github.com/kety-folf/NZCP-express-server)
